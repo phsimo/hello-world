@@ -1,2 +1,7 @@
 # hello-world
-Simle program to learn GitHub
+Simple program to learn GitHub
+
+Hi
+
+Learning Github
+
